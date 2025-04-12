@@ -19,7 +19,7 @@ This is my portfolio where I showcase my projects.
 - Visualisation: Tableau, Power BI
 
 🤝 **Connect with me**
-* https://www.linkedin.com/in/akilvish-paliwal/
+* [Linkedin](https://www.linkedin.com/in/akilvish-paliwal/)
 * pakilvish@gmail.com
 <!--
 **Akilvish/Akilvish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
