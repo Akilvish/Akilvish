@@ -1,5 +1,7 @@
 🙋 My Introduction
-![Akilvish Paliwal](https://github.com/user-attachments/assets/7037dd61-5ff7-44bc-a72a-d34808f43223)
+![Akilvish Paliwal_copy](https://github.com/user-attachments/assets/80ca0259-8c40-485d-9daa-ba6e2a31045e)
+
+
 )
 <!--
 **Akilvish/Akilvish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
