@@ -8,11 +8,11 @@ Hello, I am Akilvish. A Data Analyst with expertise in data analysis, business r
 * Developing reports using Tableau and Power BI.
 * Adhoc analysis using Excel and Google sheets.
 
-🔬 #Projects
+🔬 # Projects
 
 This is my portfolio where I showcase my projects.
 
-🛠️ #Tools
+🛠️ # Tools
 <!--
 **Akilvish/Akilvish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
