@@ -10,7 +10,7 @@ Hello, I am Akilvish. A Data Analyst with expertise in data analysis, business r
 
 🔬 **Projects**
 
-This is my portfolio where I showcase my projects.
+This is my portfolio where I showcase my [projects](README.md).
 
 🛠️ **Tools**
 
