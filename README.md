@@ -1,8 +1,12 @@
 🙋 My Introduction
+
 ![Akilvish Paliwal_copy](https://github.com/user-attachments/assets/80ca0259-8c40-485d-9daa-ba6e2a31045e)
 
+Hello, I am Akilvish. A Data Analyst with expertise in data analysis, business reporting, and query optimisation.
 
-)
+* Analysing data using SQL.
+> Developing reports using Tableau and Power BI.
+- Adhoc analysis using Excel and Google sheets.
 <!--
 **Akilvish/Akilvish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
